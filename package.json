@@ -1,4 +1,11 @@
 {
+  
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
+
   "name": "sb-standalone",
   "version": "1.0.0",
   "description": "",
