@@ -1,4 +1,4 @@
-import { Button } from "../stories/Button";
-import { Header } from "../stories/Header";
+import * as Button from "../stories/Button"
+import * as Header from "../stories/Header"
 
 export { Button, Header }
